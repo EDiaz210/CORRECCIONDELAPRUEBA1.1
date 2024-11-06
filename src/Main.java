@@ -67,6 +67,6 @@ public class Main {
         System.out.println("SUMATORIA TOTAL");
         System.out.println("El Sumatoria de todas las areas de las figura es: "+Sumatoria);
 
-
+        //hOLA
     }
 }
