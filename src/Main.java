@@ -65,8 +65,7 @@ public class Main {
 
         double Sumatoria = t1.getArea() + c1.calcularAreaCua() + cir1.getArea() + r1.calcularAreaRec();
         System.out.println("SUMATORIA TOTAL");
-        System.out.println("El Sumatoria de todas las areas de las figura " +
-                "es: "+Sumatoria);
+        System.out.println("El Sumatoria de todas las areas de las figura es: "+Sumatoria);
 
 
     }
