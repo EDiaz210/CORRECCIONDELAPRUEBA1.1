@@ -18,7 +18,11 @@ Este proyecto en Java permite calcular el área y el perímetro de diferentes fi
 - El programa mostrará las dimensiones, áreas y perímetros de todas las figuras.
 - Se mostrará la sumatoria total de las áreas de todas las figuras.
 
+# Secciones del programa
+- Debe setear sus parametros con valores ingresados por el ususario mediante teclado desde el main.
 ![{A041A164-E626-4CD1-A539-0CF4E46132E5}](https://github.com/user-attachments/assets/b1b588bd-3e31-4c6d-8436-cf63c99c66c1)
+
+- 
 
 ![{07459BE7-D879-45C4-A5EB-15456102BD80}](https://github.com/user-attachments/assets/6d29f22f-59fd-47d2-a47f-41e0285cc384)
 
