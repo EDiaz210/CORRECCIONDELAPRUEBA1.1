@@ -1,6 +1,5 @@
 --Proyecto Figuras Geométricas
 -
-
 Este proyecto en Java permite calcular el área y el perímetro de diferentes figuras geométricas: Cuadrado, Triángulo, Rectángulo y Círculo. El programa solicita al usuario ingresar datos de la figura y muestra los cálculos correspondientes.
 
 
@@ -14,8 +13,8 @@ Sumatoria de áreas: Calcula la suma total de las áreas de todas las figuras.
 
 --Instrucciones
 -
---Ejecuta el programa.
--
+
+Ejecuta el programa.
 Ingresa el valor del lado del cuadrado cuando sea solicitado.
 El programa mostrará las dimensiones, áreas y perímetros de todas las figuras.
 Se mostrará la sumatoria total de las áreas de todas las figuras.
