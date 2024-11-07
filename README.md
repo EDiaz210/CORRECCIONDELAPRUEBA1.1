@@ -31,7 +31,9 @@ Este proyecto en Java permite calcular el área y el perímetro de diferentes fi
 
 ![{C133B577-CB54-4F43-A211-2E1FA1E7428D}](https://github.com/user-attachments/assets/66f5ec38-e37b-4238-8685-8a2355d0492f)
 
-- Mostrar la sumatoria de las areas de las 4 figuras. 
+- Mostrar la sumatoria de las areas de las 4 figuras.
+![{02BF06DB-5155-4B2D-872A-0E085E1F7E54}](https://github.com/user-attachments/assets/a7ecdbd5-d49f-44ee-8533-b7ad1f5a5e4c)
+
 
 
 
