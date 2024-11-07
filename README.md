@@ -35,6 +35,9 @@ Este proyecto en Java permite calcular el área y el perímetro de diferentes fi
 ![{02BF06DB-5155-4B2D-872A-0E085E1F7E54}](https://github.com/user-attachments/assets/a7ecdbd5-d49f-44ee-8533-b7ad1f5a5e4c)
 
 
-
+# Link del Video:
+https://youtu.be/oLCP5SDaO7g
+# Link del repositorio 
+https://github.com/EDiaz210/CORRECCIONDELAPRUEBA1.1.git
 
 
