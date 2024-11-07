@@ -3,6 +3,11 @@ import java.util.Scanner;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
+
+    public static double sumarAreas(Triangulo t1, Cuadrado c1, Circulo cir1, Rectangulo r1) {
+        return t1.getArea() + c1.calcularAreaCua() + cir1.getArea() + r1.calcularAreaRec();
+    }
+
     public static void main(String[] args) {
         //Objeto inicializados sin valores
         Cuadrado c1 = new Cuadrado(0);
@@ -62,11 +67,11 @@ public class Main {
         System.out.println("El area del triangulo es: "+t1.getArea());
 
         //Sumatoria de Todas las areas de las figuras
+        double sumatoriaTotal = sumarAreas(t1, c1, cir1, r1);
 
-        double Sumatoria = t1.getArea() + c1.calcularAreaCua() + cir1.getArea() + r1.calcularAreaRec();
         System.out.println("SUMATORIA TOTAL");
-        System.out.println("El Sumatoria de todas las areas de las figura es: "+Sumatoria);
+        System.out.println("El sumatoria de todas las áreas de las figuras es: " + sumatoriaTotal);
+    }
 
         //hOLA
     }
-}
