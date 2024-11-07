@@ -5,18 +5,18 @@ Este proyecto en Java permite calcular el área y el perímetro de diferentes fi
 
 # Características
 
--Cuadrado: Ingresar el lado, calcular área y perímetro.
--Triángulo: Asignar base, altura y lado, calcular área y perímetro.
--Rectángulo: Asignar base y altura, calcular área y perímetro.
--Círculo: Asignar radio, calcular área y perímetro.
--Sumatoria de áreas: Calcula la suma total de las áreas de todas las figuras.
+- **Cuadrado:** Ingresar el lado, calcular área y perímetro.
+- **Triángulo:** Asignar base, altura y lado, calcular área y perímetro.
+- **Rectángulo:** Asignar base y altura, calcular área y perímetro.
+- **Círculo:** Asignar radio, calcular área y perímetro.
+- **Sumatoria de áreas:** Calcula la suma total de las áreas de todas las figuras.
 
 # Instrucciones
 
--Ejecuta el programa.
--Ingresa el valor del lado del cuadrado cuando sea solicitado.
--El programa mostrará las dimensiones, áreas y perímetros de todas las figuras.
--Se mostrará la sumatoria total de las áreas de todas las figuras.
+- Ejecuta el programa.
+- Ingresa el valor del lado del cuadrado cuando sea solicitado.
+- El programa mostrará las dimensiones, áreas y perímetros de todas las figuras.
+- Se mostrará la sumatoria total de las áreas de todas las figuras.
 
 ![{A041A164-E626-4CD1-A539-0CF4E46132E5}](https://github.com/user-attachments/assets/b1b588bd-3e31-4c6d-8436-cf63c99c66c1)
 
